@@ -1,2 +1,4 @@
 # Curso-Em-Video
-Projetos realizados no Curso em Vídeo (Youtube)
+
+Em Breve serão adicionados os projetos realizados no Curso Básico de JavaScript do Curso em Vídeo...
+
